@@ -40,7 +40,7 @@ window.SITE = {
       description: "The first board game and card game cafe in Batangas City. ",
       services: ["Website design", "Development", "Mobile layout"],
       image: "assets/WebTest.jpeg",
-      mobileImage: "assets/WebTest.jpeg",
+      mobileImage: "",
       url: "https://helloherbs.github.io/Dice-Tower-Website/",
       placeholder: true
     }
